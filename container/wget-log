@@ -10382,4 +10382,367 @@ Saving to: ‘bgoonz-blog.netlify.app/page-data/docs/interact/video-chat/page-da
   2100K .......... .......... .......... .......... .......... 44%  244K 13s
   2150K .......... .......... .......... .......... .......... 45%  244K 13s
   2200K .......... .......... .......... .......... .......... 46%  242K 13s
-  2250K ......
+  2250K .......... .......... .......... .......... .......... 47%  123K 13s
+  2300K .......... .......... .......... .......... .......... 48%  245K 12s
+  2350K .......... .......... .......... .......... .......... 49%  248K 12s
+  2400K .......... .......... .......... .......... .......... 50%  244K 12s
+  2450K .......... .......... .......... .......... .......... 51%  123K 12s
+  2500K .......... .......... .......... .......... .......... 52%  248K 11s
+  2550K .......... .......... .......... .......... .......... 53%  245K 11s
+  2600K .......... .......... .......... .......... .......... 54%  248K 11s
+  2650K .......... .......... .......... .......... .......... 55%  245K 10s
+  2700K .......... .......... .......... .......... .......... 56%  122K 10s
+  2750K .......... .......... .......... .......... .......... 57%  245K 10s
+  2800K .......... .......... .......... .......... .......... 59%  243K 10s
+  2850K .......... .......... .......... .......... .......... 60%  246K 10s
+  2900K .......... .......... .......... .......... .......... 61%  123K 9s
+  2950K .......... .......... .......... .......... .......... 62%  244K 9s
+  3000K .......... .......... .......... .......... .......... 63%  249K 9s
+  3050K .......... .......... .......... .......... .......... 64%  248K 9s
+  3100K .......... .......... .......... .......... .......... 65%  248K 8s
+  3150K .......... .......... .......... .......... .......... 66%  123K 8s
+  3200K .......... .......... .......... .......... .......... 67%  248K 8s
+  3250K .......... .......... .......... .......... .......... 68%  245K 8s
+  3300K .......... .......... .......... .......... .......... 69%  245K 7s
+  3350K .......... .......... .......... .......... .......... 70%  123K 7s
+  3400K .......... .......... .......... .......... .......... 71%  247K 7s
+  3450K .......... .......... .......... .......... .......... 72%  246K 7s
+  3500K .......... .......... .......... .......... .......... 73%  248K 6s
+  3550K .......... .......... .......... .......... .......... 74%  123K 6s
+  3600K .......... .......... .......... .......... .......... 75%  244K 6s
+  3650K .......... .......... .......... .......... .......... 76%  248K 6s
+  3700K .......... .......... .......... .......... .......... 77%  245K 5s
+  3750K .......... .......... .......... .......... .......... 78%  245K 5s
+  3800K .......... .......... .......... .......... .......... 79%  121K 5s
+  3850K .......... .......... .......... .......... .......... 80%  240K 5s
+  3900K .......... .......... .......... .......... .......... 81%  245K 4s
+  3950K .......... .......... .......... .......... .......... 82%  244K 4s
+  4000K .......... .......... .......... .......... .......... 83%  123K 4s
+  4050K .......... .......... .......... .......... .......... 84%  248K 4s
+  4100K .......... .......... .......... .......... .......... 85%  244K 3s
+  4150K .......... .......... .......... .......... .......... 86%  244K 3s
+  4200K .......... .......... .......... .......... .......... 88%  249K 3s
+  4250K .......... .......... .......... .......... .......... 89%  123K 3s
+  4300K .......... .......... .......... .......... .......... 90%  248K 2s
+  4350K .......... .......... .......... .......... .......... 91%  245K 2s
+  4400K .......... .......... .......... .......... .......... 92%  248K 2s
+  4450K .......... .......... .......... .......... .......... 93%  123K 2s
+  4500K .......... .......... .......... .......... .......... 94%  245K 1s
+  4550K .......... .......... .......... .......... .......... 95%  245K 1s
+  4600K .......... .......... .......... .......... .......... 96%  248K 1s
+  4650K .......... .......... .......... .......... .......... 97%  124K 1s
+  4700K .......... .......... .......... .......... .......... 98%  249K 0s
+  4750K .......... .......... .......... .......... .......... 99%  248K 0s
+  4800K .......... .......... ........                        100%  141K=24s
+
+2021-10-15 18:42:11 (200 KB/s) - ‘bgoonz-blog.netlify.app/page-data/docs/interact/video-chat/page-data.json’ saved [4944795/4944795]
+
+--2021-10-15 18:42:11--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/logo-circle.png
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:11 ERROR 404: Not Found.
+
+--2021-10-15 18:42:11--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/favicon.ico
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:11 ERROR 404: Not Found.
+
+--2021-10-15 18:42:11--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:11 ERROR 404: Not Found.
+
+--2021-10-15 18:42:11--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/activation.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:12 ERROR 404: Not Found.
+
+--2021-10-15 18:42:12--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/api_functions.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:12 ERROR 404: Not Found.
+
+--2021-10-15 18:42:12--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/api.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:12 ERROR 404: Not Found.
+
+--2021-10-15 18:42:12--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/captcha.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:12 ERROR 404: Not Found.
+
+--2021-10-15 18:42:12--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/config.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:12 ERROR 404: Not Found.
+
+--2021-10-15 18:42:12--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/consts.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:13 ERROR 404: Not Found.
+
+--2021-10-15 18:42:13--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/db.sql
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:13 ERROR 404: Not Found.
+
+--2021-10-15 18:42:13--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/errorhandler.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:13 ERROR 404: Not Found.
+
+--2021-10-15 18:42:13--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/httpheaders.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:13 ERROR 404: Not Found.
+
+--2021-10-15 18:42:13--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/image.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:13 ERROR 404: Not Found.
+
+--2021-10-15 18:42:13--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/json.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:13 ERROR 404: Not Found.
+
+--2021-10-15 18:42:13--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/mesiboapi.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:14 ERROR 404: Not Found.
+
+--2021-10-15 18:42:14--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/mesibohelper.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:14 ERROR 404: Not Found.
+
+--2021-10-15 18:42:14--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/mysqldb.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:14 ERROR 404: Not Found.
+
+--2021-10-15 18:42:14--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/mysql-wrapper.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:14 ERROR 404: Not Found.
+
+--2021-10-15 18:42:14--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/README.md
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:14 ERROR 404: Not Found.
+
+--2021-10-15 18:42:14--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/upload.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:15 ERROR 404: Not Found.
+
+--2021-10-15 18:42:15--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/backend/utility.php
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:15 ERROR 404: Not Found.
+
+--2021-10-15 18:42:15--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:15 ERROR 404: Not Found.
+
+--2021-10-15 18:42:15--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/559862854355634.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:15 ERROR 404: Not Found.
+
+--2021-10-15 18:42:15--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/analytics.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:15 ERROR 404: Not Found.
+
+--2021-10-15 18:42:15--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/archive.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:15 ERROR 404: Not Found.
+
+--2021-10-15 18:42:15--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/bootstrap.min.css
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:16 ERROR 404: Not Found.
+
+--2021-10-15 18:42:16--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/bootstrap.min.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:16 ERROR 404: Not Found.
+
+--2021-10-15 18:42:16--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/buttons.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:16 ERROR 404: Not Found.
+
+--2021-10-15 18:42:16--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/collections_tocs.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:16 ERROR 404: Not Found.
+
+--2021-10-15 18:42:16--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/css.css
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:16 ERROR 404: Not Found.
+
+--2021-10-15 18:42:16--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/docs.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:17 ERROR 404: Not Found.
+
+--2021-10-15 18:42:17--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/fbevents.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:17 ERROR 404: Not Found.
+
+--2021-10-15 18:42:17--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/font-awesome.min.css
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:17 ERROR 404: Not Found.
+
+--2021-10-15 18:42:17--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/github.css
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:17 ERROR 404: Not Found.
+
+--2021-10-15 18:42:17--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/glossary.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:17 ERROR 404: Not Found.
+
+--2021-10-15 18:42:17--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/jquery.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:17 ERROR 404: Not Found.
+
+--2021-10-15 18:42:17--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/menu.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:18 ERROR 404: Not Found.
+
+--2021-10-15 18:42:18--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/mesibo-logo.svg
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:18 ERROR 404: Not Found.
+
+--2021-10-15 18:42:18--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/mesibo-logo-white.png
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:18 ERROR 404: Not Found.
+
+--2021-10-15 18:42:18--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/metadata.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:18 ERROR 404: Not Found.
+
+--2021-10-15 18:42:18--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/perldoc.css
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:18 ERROR 404: Not Found.
+
+--2021-10-15 18:42:18--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/stickyfill.min.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:19 ERROR 404: Not Found.
+
+--2021-10-15 18:42:19--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/style.css
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:19 ERROR 404: Not Found.
+
+--2021-10-15 18:42:19--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary_files/toc.js
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:19 ERROR 404: Not Found.
+
+--2021-10-15 18:42:19--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/glossary.html
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:19 ERROR 404: Not Found.
+
+--2021-10-15 18:42:19--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/package-lock.json
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:19 ERROR 404: Not Found.
+
+--2021-10-15 18:42:19--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/README.md
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:19 ERROR 404: Not Found.
+
+--2021-10-15 18:42:19--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/scrap.md
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:20 ERROR 404: Not Found.
+
+--2021-10-15 18:42:20--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/tree.md
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:20 ERROR 404: Not Found.
+
+--2021-10-15 18:42:20--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/TREE.md
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:20 ERROR 404: Not Found.
+
+--2021-10-15 18:42:20--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:20 ERROR 404: Not Found.
+
+--2021-10-15 18:42:20--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:20 ERROR 404: Not Found.
+
+--2021-10-15 18:42:20--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/audio
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:20 ERROR 404: Not Found.
+
+--2021-10-15 18:42:20--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/audio/join.mp3
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:21 ERROR 404: Not Found.
+
+--2021-10-15 18:42:21--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/audio/join.ogg
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:21 ERROR 404: Not Found.
+
+--2021-10-15 18:42:21--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/fonts
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:21 ERROR 404: Not Found.
+
+--2021-10-15 18:42:21--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/fonts/font-awesome
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:21 ERROR 404: Not Found.
+
+--2021-10-15 18:42:21--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/fonts/font-awesome/css
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:21 ERROR 404: Not Found.
+
+--2021-10-15 18:42:21--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/fonts/font-awesome/css/font-awesome.css
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:21 ERROR 404: Not Found.
+
+--2021-10-15 18:42:21--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/images
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:22 ERROR 404: Not Found.
+
+--2021-10-15 18:42:22--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/images/blank-white.jpg
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:22 ERROR 404: Not Found.
+
+--2021-10-15 18:42:22--  https://bgoonz-blog.netlify.app/docs/interact/video-chat/web/assets/images/file
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:42:22 ERRO

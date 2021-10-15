@@ -472,4 +472,234 @@ Saving to: ‘bgoonz-blog.netlify.app/page-data/docs/docs/page-data.json’
   2950K .......... .......... .......... .......... .......... 62%  248K 9s
   3000K .......... .......... .......... .......... .......... 63%  244K 9s
   3050K .......... .......... .......... .......... .......... 64%  248K 8s
-  3100K .......... .......... .......... .......... ..
+  3100K .......... .......... .......... .......... .......... 65%  123K 8s
+  3150K .......... .......... .......... .......... .......... 66%  248K 8s
+  3200K .......... .......... .......... .......... .......... 67%  248K 8s
+  3250K .......... .......... .......... .......... .......... 68%  246K 8s
+  3300K .......... .......... .......... .......... .......... 69%  121K 7s
+  3350K .......... .......... .......... .......... .......... 70%  248K 7s
+  3400K .......... .......... .......... .......... .......... 71%  246K 7s
+  3450K .......... .......... .......... .......... .......... 72%  244K 7s
+  3500K .......... .......... .......... .......... .......... 73%  124K 6s
+  3550K .......... .......... .......... .......... .......... 74%  244K 6s
+  3600K .......... .......... .......... .......... .......... 75%  247K 6s
+  3650K .......... .......... .......... .......... .......... 76%  245K 6s
+  3700K .......... .......... .......... .......... .......... 77%  248K 5s
+  3750K .......... .......... .......... .......... .......... 78%  123K 5s
+  3800K .......... .......... .......... .......... .......... 79%  244K 5s
+  3850K .......... .......... .......... .......... .......... 80%  248K 5s
+  3900K .......... .......... .......... .......... .......... 82%  245K 4s
+  3950K .......... .......... .......... .......... .......... 83%  123K 4s
+  4000K .......... .......... .......... .......... .......... 84%  247K 4s
+  4050K .......... .......... .......... .......... .......... 85%  245K 4s
+  4100K .......... .......... .......... .......... .......... 86%  245K 3s
+  4150K .......... .......... .......... .......... .......... 87%  123K 3s
+  4200K .......... .......... .......... .......... .......... 88%  243K 3s
+  4250K .......... .......... .......... .......... .......... 89%  242K 3s
+  4300K .......... .......... .......... .......... .......... 90%  248K 2s
+  4350K .......... .......... .......... .......... .......... 91%  244K 2s
+  4400K .......... .......... .......... .......... .......... 92%  122K 2s
+  4450K .......... .......... .......... .......... .......... 93%  244K 2s
+  4500K .......... .......... .......... .......... .......... 94%  247K 1s
+  4550K .......... .......... .......... .......... .......... 95%  245K 1s
+  4600K .......... .......... .......... .......... .......... 96%  244K 1s
+  4650K .......... .......... .......... .......... .......... 97%  123K 1s
+  4700K .......... .......... .......... .......... .......... 98%  244K 0s
+  4750K .......... .......... .......... .......... .......... 99%  248K 0s
+  4800K .......... ......                                     100% 79.7K=24s
+
+2021-10-15 18:08:54 (200 KB/s) - ‘bgoonz-blog.netlify.app/page-data/docs/docs/page-data.json’ saved [4931603/4931603]
+
+--2021-10-15 18:08:54--  https://bgoonz-blog.netlify.app/docs/docs/logo-circle.png
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:54 ERROR 404: Not Found.
+
+--2021-10-15 18:08:54--  https://bgoonz-blog.netlify.app/docs/docs/favicon.ico
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:54 ERROR 404: Not Found.
+
+--2021-10-15 18:08:54--  https://bgoonz-blog.netlify.app/job-hunt/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:54 ERROR 404: Not Found.
+
+--2021-10-15 18:08:54--  https://bgoonz-blog.netlify.app/notes-template/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:54 ERROR 404: Not Found.
+
+--2021-10-15 18:08:54--  https://bgoonz-blog.netlify.app/docs/about/me/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:55 ERROR 404: Not Found.
+
+--2021-10-15 18:08:55--  https://bgoonz-blog.netlify.app/docs/articles/algo/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:55 ERROR 404: Not Found.
+
+--2021-10-15 18:08:55--  https://bgoonz-blog.netlify.app/docs/articles/gallery/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:55 ERROR 404: Not Found.
+
+--2021-10-15 18:08:55--  https://bgoonz-blog.netlify.app/docs/audio/terms/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:55 ERROR 404: Not Found.
+
+--2021-10-15 18:08:55--  https://bgoonz-blog.netlify.app/docs/articles/resources/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:55 ERROR 404: Not Found.
+
+--2021-10-15 18:08:55--  https://bgoonz-blog.netlify.app/docs/articles/python/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:55 ERROR 404: Not Found.
+
+--2021-10-15 18:08:55--  https://bgoonz-blog.netlify.app/docs/docs/python/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:56 ERROR 404: Not Found.
+
+--2021-10-15 18:08:56--  https://bgoonz-blog.netlify.app/docs/quick-reference/docs/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:56 ERROR 404: Not Found.
+
+--2021-10-15 18:08:56--  https://bgoonz-blog.netlify.app/docs/tools/notes-template/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:56 ERROR 404: Not Found.
+
+--2021-10-15 18:08:56--  https://bgoonz-blog.netlify.app/docs/tools/plug-ins/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:56 ERROR 404: Not Found.
+
+--2021-10-15 18:08:56--  https://bgoonz-blog.netlify.app/docs/articles/node/install/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:56 ERROR 404: Not Found.
+
+--2021-10-15 18:08:56--  https://bgoonz-blog.netlify.app/docs/tools/vscode/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:56 ERROR 404: Not Found.
+
+--2021-10-15 18:08:56--  https://bgoonz-blog.netlify.app/docs/articles/node/intro/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:57 ERROR 404: Not Found.
+
+--2021-10-15 18:08:57--  https://bgoonz-blog.netlify.app/docs/articles/node/nodejs/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:57 ERROR 404: Not Found.
+
+--2021-10-15 18:08:57--  https://bgoonz-blog.netlify.app/docs/articles/node/nodevsbrowser/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:57 ERROR 404: Not Found.
+
+--2021-10-15 18:08:57--  https://bgoonz-blog.netlify.app/docs/articles/node/npm/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:57 ERROR 404: Not Found.
+
+--2021-10-15 18:08:57--  https://bgoonz-blog.netlify.app/docs/articles/node/reading-files/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:57 ERROR 404: Not Found.
+
+--2021-10-15 18:08:57--  https://bgoonz-blog.netlify.app/docs/articles/node/writing-files/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:58 ERROR 404: Not Found.
+
+--2021-10-15 18:08:58--  https://bgoonz-blog.netlify.app/docs/react-in-depth/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:58 ERROR 404: Not Found.
+
+--2021-10-15 18:08:58--  https://bgoonz-blog.netlify.app/docs/articles/article-compilation/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:58 ERROR 404: Not Found.
+
+--2021-10-15 18:08:58--  https://bgoonz-blog.netlify.app/docs/medium/social/
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:58 ERROR 404: Not Found.
+
+--2021-10-15 18:08:58--  https://bgoonz-blog.netlify.app/docs/docs/$url
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-10-15 18:08:58 ERROR 404: Not Found.
+
+--2021-10-15 18:08:58--  https://bgoonz-blog.netlify.app/page-data/docs/faq/page-data.json
+Reusing existing connection to bgoonz-blog.netlify.app:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4926399 (4.7M) [application/json]
+Saving to: ‘bgoonz-blog.netlify.app/page-data/docs/faq/page-data.json’
+
+     0K .......... .......... .......... .......... ..........  1%  526K 9s
+    50K .......... .......... .......... .......... ..........  2%  122K 24s
+   100K .......... .......... .......... .......... ..........  3%  248K 22s
+   150K .......... .......... .......... .......... ..........  4%  248K 21s
+   200K .......... .......... .......... .......... ..........  5%  247K 20s
+   250K .......... .......... .......... .......... ..........  6%  123K 23s
+   300K .......... .......... .......... .......... ..........  7%  242K 22s
+   350K .......... .......... .......... .......... ..........  8%  244K 21s
+   400K .......... .......... .......... .......... ..........  9%  241K 21s
+   450K .......... .......... .......... .......... .......... 10%  248K 20s
+   500K .......... .......... .......... .......... .......... 11%  123K 21s
+   550K .......... .......... .......... .......... .......... 12%  243K 21s
+   600K .......... .......... .......... .......... .......... 13%  241K 20s
+   650K .......... .......... .......... .......... .......... 14%  248K 20s
+   700K .......... .......... .......... .......... .......... 15%  123K 20s
+   750K .......... .......... .......... .......... .......... 16%  244K 20s
+   800K .......... .......... .......... .......... .......... 17%  248K 19s
+   850K .......... .......... .......... .......... .......... 18%  244K 19s
+   900K .......... .......... .......... .......... .......... 19%  123K 19s
+   950K .......... .......... .......... .......... .......... 20%  244K 19s
+  1000K .......... .......... .......... .......... .......... 21%  248K 19s
+  1050K .......... .......... .......... .......... .......... 22%  244K 18s
+  1100K .......... .......... .......... .......... .......... 23%  248K 18s
+  1150K .......... .......... .......... .......... .......... 24%  123K 18s
+  1200K .......... .......... .......... .......... .......... 25%  244K 18s
+  1250K .......... .......... .......... .......... .......... 27%  248K 17s
+  1300K .......... .......... .......... .......... .......... 28%  245K 17s
+  1350K .......... .......... .......... .......... .......... 29%  123K 17s
+  1400K .......... .......... .......... .......... .......... 30%  248K 17s
+  1450K .......... .......... .......... .......... .......... 31%  245K 16s
+  1500K .......... .......... .......... .......... .......... 32%  244K 16s
+  1550K .......... .......... .......... .......... .......... 33%  241K 16s
+  1600K .......... .......... .......... .......... .......... 34%  123K 16s
+  1650K .......... .......... .......... .......... .......... 35%  245K 15s
+  1700K .......... .......... .......... .......... .......... 36%  244K 15s
+  1750K .......... .......... .......... .......... .......... 37%  241K 15s
+  1800K .......... .......... .......... .......... .......... 38%  123K 15s
+  1850K .......... .......... .......... .......... .......... 39%  244K 15s
+  1900K .......... .......... .......... .......... .......... 40%  248K 14s
+  1950K .......... .......... .......... .......... .......... 41%  244K 14s
+  2000K .......... .......... .......... .......... .......... 42%  123K 14s
+  2050K .......... .......... .......... .......... .......... 43%  247K 14s
+  2100K .......... .......... .......... .......... .......... 44%  244K 13s
+  2150K .......... .......... .......... .......... .......... 45%  241K 13s
+  2200K .......... .......... .......... .......... .......... 46%  245K 13s
+  2250K .......... .......... .......... .......... .......... 47%  123K 13s
+  2300K .......... .......... .......... .......... .......... 48%  245K 12s
+  2350K .......... .......... .......... .......... .......... 49%  248K 12s
+  2400K .......... .......... .......... .......... .......... 50%  245K 12s
+  2450K .......... .......... .......... .......... .......... 51%  123K 12s
+  2500K .......... .......... .......... .......... .......... 53%  248K 11s
+  2550K .......... .......... .......... .......... .......... 54%  245K 11s
+  2600K .......... .......... .......... .......... .......... 55%  248K 11s
+  2650K .......... .......... .......... .......... .......... 56%  123K 11s
+  2700K .......... .......... .......... .......... .......... 57%  244K 10s
+  2750K .......... .......... .......... .......... .......... 58%  248K 10s
+  2800K .......... .......... .
